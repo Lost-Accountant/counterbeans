@@ -1,4 +1,11 @@
-title: "Remote theme example"
-remote_theme: pmarsceill/just-the-docs
+title: "Counter for Beans"
+theme: "just-the-docs"
 color_scheme: "dark"
-search_enabled: false
+baseurl: "/counterbeans"
+url: "https://lost-accountant.github.io"
+permalink: pretty
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
+, "docs/tests/"
+]
+
+search_enabled: true
