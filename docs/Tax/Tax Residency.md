@@ -1,22 +1,22 @@
 ---
-title: Tax Residency in Canada
+title: Tax Residency
 parent: Personal Income Tax
-grand_parent: Personal Income Tax
-has_children: false
+grand_parent: Tax in Canada
 nav_order: 1
+layout: default
 ---
 
 # Am I Subject to Income Tax in Canada?
 
 This is the 1st question that should be asked. Otherwise, there is no point reading further.
 
-## Worldwide Income
+## Worldwide Income Taxable
 
-Unlike the United States which determine whether you are subject to income tax on your **worldwide income** based on citizenship and residency, the only criteria used in Canada is your **residency** status.
+Unlike the United States which determines whether you are subject to income tax on your *worldwide income* based on citizenship and residency, the only criteria used in Canada is your **residency** status.
 
 In other words, in Canada tax system, you are subject to income tax for all income and gains originated anywhere in the globe, as long as you are a **resident of Canada**, even if you are **NOT a Canadian citizen**.
 
-Otherwise, if you are **NOT a resident**, only specific activies occurred in **Canada** will be taxed.
+Otherwise, if you are not a resident, only specific activies occurred in Canada will be taxed.
 
 ## How do I know if I am a "Resident"
 
@@ -74,7 +74,7 @@ In human language, it is judged based on the following factors:
         - Canadian driver license
         - Canadian provincial health card
 
-**NOTE**: It does NOT mean that if you have a Canadian passport, you are a resident of Canada.
+**NOTE**: It does not mean that if you have a Canadian passport, you are a resident of Canada.
 
 The residential ties above are factors used in court, so it is more of a judgement thing with no crystal-clear critiera, unlike the deemed resident rule.
 

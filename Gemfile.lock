@@ -287,7 +287,6 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.2.32)
   github-pages
-  jekyll-remote-theme
   just-the-docs!
   wdm (>= 0.1.0)
   webrick (~> 1.7)
