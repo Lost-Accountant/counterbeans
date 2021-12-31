@@ -36,6 +36,8 @@ The process effectively works like this:
 ```
 def Residency(individual):
 
+# return if the individual given is a resident of Canada for tax purposes
+
     If (individual.stays > 182){
         return True;
     } else{
@@ -53,11 +55,11 @@ In human language, it is judged based on the following factors:
 (Text in *Italic* is how I personally call them).
 
 1. **Significant Residential Ties**
+    
+    - *family ties*
 
-    - Home in Canada.
-    - Spouse or partner or children living in Canada.
-
-    I personally call it the *family ties*.
+        - Home in Canada.
+        - Spouse or partner or children living in Canada.
 
 2. **Secondary Residential Ties**
 
