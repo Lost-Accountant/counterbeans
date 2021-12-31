@@ -1,5 +1,5 @@
 title: "Counter for Beans"
-remote_theme: pmarsceill/just-the-docs
+theme: "just-the-docs"
 color_scheme: nil
 search_enabled: true
 
@@ -26,3 +26,10 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
