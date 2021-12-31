@@ -1,6 +1,7 @@
 ---
 title: Tax Residency in Canada
 parent: Personal Income Tax
+grand_parent: Personal Income Tax
 has_children: false
 nav_order: 1
 ---
