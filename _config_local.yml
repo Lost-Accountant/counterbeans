@@ -1,7 +1,14 @@
 title: "Counter for Beans"
 
 #github
-remote_theme: pmarsceill/just-the-docs
+#remote_theme: pmarsceill/just-the-docs
+
+# local
+theme: "just-the-docs"
+baseurl: ""
+url: ""
+
+
 color_scheme: nil
 search_enabled: true
 
