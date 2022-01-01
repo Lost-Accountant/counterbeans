@@ -20,7 +20,8 @@ Otherwise, if you are not a resident, only specific activies occurred in Canada 
 
 ## How do I know if I am a "Resident"
 
-This is determined on a year-by-year basis and there are 2 ways of knowing it:
+This is determined on a year-by-year basis.
+If there was no immigration activity during the year, there are 2 ways of knowing it:
 
 1. ***Deemed Resident***
 
@@ -34,16 +35,16 @@ This is determined on a year-by-year basis and there are 2 ways of knowing it:
 The process effectively works like this:
 
 ```
-def Residency(individual):
+def Residency(individual){
 
-# return if the individual given is a resident of Canada for tax purposes
+# return if the individual given is a resident of Canada for tax purposes, assuming no immigration activity.
 
-    If (individual.stays > 182){
+    If (individual.getStays() > 182){
         return True;
     } else{
         return ResidencyCommonLaw(individual);
     }
-
+};
 ```
 
 ### **Tax Residency under Common Law**
@@ -84,6 +85,23 @@ In the court, other factors will also be considered such as motives, background,
 
 Whether you are a resident is sometimes quite obvious, and sometimes not. ***If in doubt, consult a professional.***
 
-### **Immigration & Emmigration**
+### **Part-Year Resident: Immigration & Emmigration**
 
-In progress.
+A special situation is when someone immigrates into or emmigrate out of Canada during a calendar year.
+
+The residency status is obvious by itself. If you are immigrating into Canada, you are certainly becoming a Canadian resident, and vice versa.
+
+However, you are only considered a **Part-Year Resident** for the period that you are a Canaidan resident.
+
+>Example #1:
+>
+> Alex immigrates into Canada as an international student temporary resident starting September 1st of 2022. He is a part-year resident of Canada from September 1st to December 31, for the 2022 tax year.
+
+
+#### Practical Implication
+
+
+
+```
+Pseudo code for tax credit
+```
