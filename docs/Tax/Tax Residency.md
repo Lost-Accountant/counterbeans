@@ -2,6 +2,7 @@
 title: Tax Residency
 parent: Personal Income Tax
 grand_parent: Tax in Canada
+math: mathjax3
 nav_order: 1
 layout: default
 ---
@@ -93,15 +94,23 @@ The residency status is obvious by itself. If you are immigrating into Canada, y
 
 However, you are only considered a **Part-Year Resident** for the period that you are a Canaidan resident.
 
->Example #1:
+> Example #1:
 >
 > Alex immigrates into Canada as an international student temporary resident starting September 1st of 2022. He is a part-year resident of Canada from September 1st to December 31, for the 2022 tax year.
 
 
 #### Practical Implication
 
+- For the period that you are **resident**, your **worldwide income during that period** will be taxable in Canada.
+- For the period that you are **non-resident**, only **certain Canadian activities during that period** will be taxable in Canada.
+- Some tax credits eligible for **residents** will be reduced proportionally based on the number of days.
 
-
+> Example #2:
+> 
+> Each individual taxpayer is eligible for a tax credit called *Basic Personal Amount*, which is around $13,000 each year. (The exact amount changes each year).
+> 
+> In the case of Alex in Example #1, he is only a Canadian resident for 121 days, the *Basic Personal Amount* for him will be $$ $13,000 x 121 / 365 = $4,309 $$ only.
 ```
-Pseudo code for tax credit
+
+
 ```
