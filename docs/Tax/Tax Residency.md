@@ -109,8 +109,10 @@ However, you are only considered a **Part-Year Resident** for the period that yo
 > 
 > Each individual taxpayer is eligible for a tax credit called *Basic Personal Amount*, which is around $13,000 each year. (The exact amount changes each year).
 > 
-> In the case of Alex in Example #1, he is only a Canadian resident for 121 days, the *Basic Personal Amount* for him will be $$ $13,000 x 121 / 365 = $4,309 $$ only.
-```
+> In the case of Alex in Example #1, he is only a Canadian resident for 121 days, the *Basic Personal Amount* for him will be $$ $13,000 /times 121 / 365 = $4,309 $$ only.
 
+
+```
+pseudo code for tax credit pro-rata?
 
 ```
