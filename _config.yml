@@ -37,3 +37,11 @@ heading_anchors: true
 back_to_top: true
 back_to_top_text: "Back to top"
 theme: jekyll-theme-minimal
+
+# Aux links for the upper right navigation
+aux_links:
+  "Counter for Beans on GitHub":
+    - "//github.com/Lost-Accountant/counterbeans"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true

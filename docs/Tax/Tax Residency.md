@@ -7,7 +7,12 @@ nav_order: 1
 layout: default
 ---
 
-# Am I Subject to Income Tax in Canada?
+<div class="page status" markdown="1">
+Under Construction
+{: .label .label-yellow }
+</div>
+
+# **Am I Subject to Income Tax in Canada?**
 
 This is the 1st question that should be asked. Otherwise, there is no point reading further.
 
@@ -19,7 +24,7 @@ In other words, in Canada tax system, you are subject to income tax for all inco
 
 Otherwise, if you are not a resident, only specific activies occurred in Canada will be taxed.
 
-## How do I know if I am a "Resident"
+## **How do I know if I am a "Resident"**
 
 This is determined on a year-by-year basis.
 If there was no immigration activity during the year, there are 2 ways of knowing it:
@@ -111,8 +116,5 @@ However, you are only considered a **Part-Year Resident** for the period that yo
 > 
 > In the case of Alex in Example #1, he is only a Canadian resident for 121 days, the *Basic Personal Amount* for him will be: $$ \$13,000 \times ( 121 \thinspace days / 365 \thinspace days ) = \$4,309 $$
 
+Tax credits that are based on certain income or expenses will not be affected. Only those that are based on the passage of year will be reduced proportionally in the situation above, such as Basic Personal Amount, Canadian Employment Amount, and so on. Details about tax credits will be discussed in the future.
 
-```
-pseudo code for tax credit pro-rata?
-
-```
