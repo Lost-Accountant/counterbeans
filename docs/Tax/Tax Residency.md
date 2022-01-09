@@ -1,5 +1,5 @@
 ---
-title: Tax Residency
+title: Residency
 parent: Personal Income Tax
 grand_parent: Tax in Canada
 math: mathjax3
@@ -8,8 +8,8 @@ layout: default
 ---
 
 <div class="page status" markdown="1">
-Under Construction
-{: .label .label-yellow }
+Completed for Now
+{: .label .label-blue }
 </div>
 
 # **Am I Subject to Income Tax in Canada?**
