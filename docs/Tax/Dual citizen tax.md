@@ -8,8 +8,8 @@ layout: default
 ---
 
 <div class="page status" markdown="1">
-Under Construction
-{: .label .label-yellow }
+Completed for Now
+{: .label .label-blue }
 </div>
 
 # **What if I am resident of 2 countries?**
@@ -51,15 +51,24 @@ However, this is what the treaties aim to do, and reality is rarely perfect, so 
 
 International tax treaties determine *foreign nation's* (such as the United States, for dual citizens) right to tax certain types of income (that are taxable under that country's law), and the tax you paid towards *foreign nations* is then called **Foreign Tax Credits** that can be claimed in your Canadian personal (*T1*) income tax return.
 
-
-(The following should probably be a separate section).
-
-### Foreign Tax Credit
-
-
-
 ### Who to Pay First
 
-usually residence
+The order you file your tax returns is usually determined by you actual residence. If you live in Canada, Canada usually has a claim on your income tax first. 
+
+Then, after filing your Canadian income tax return, you will have an idea on how much income tax you have paid or will be paying, and this amount can then be converted to another country's currency, for foreign tax credits in that country's tax return.
+
+- 2nd Country has **lower tax rate**
+
+    If the other nation is the United States, as the US currently has an overall lower tax rate than Canada, your US tax return should show zero or little tax payable, after including your foreign tax credits from Canada. (Not always the case as situations differ for each person.).
+
+    In this case, your **total tax paid is the Canadian tax amount**, which is the higher of the two nations' claims.
+
+- 2nd Country has **higher tax rate**
+
+    The foreign tax credit from Canada is likely not enough to offset all the balance on your other nation's income tax return, meaning that you have to pay the difference to the other country.
+
+    Thus, the **total tax paid is the Canadian tax amount plus the difference** paid to the other nation, making the total tax amount the higher of the two nations' claims, which is the amount paid to the country with higher tax rate.
 
 ### Recommendation
+
+If you have multiple nations' tax returns to file, it is usually quite a complicated situation, and it is **highly recommended to consult a tax professional**, instead of figuring everything else by yourself.
