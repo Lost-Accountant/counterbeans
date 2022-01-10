@@ -56,6 +56,17 @@ International tax treaties determine *foreign nation's* (such as the United Stat
 
 ### Foreign Tax Credit
 
+They usually arrive in 2 forms: One that brings you convenience and one that doesn't.
+
+- Tax Slips (*T3*, *T5*, *T5013*)
+
+    If your investment deals with foreign entities, such as a mutual fund that invests in American companies and receive dividends from America, which is subject to *withholding tax* paid to those foreign countries. (Please see "*Non-Resident*" for details).
+
+    Your investments tax summary can arrive in the form of *T3*, *T5*, or *T5013* tax slips, depending on the type of investments.
+
+    In those tax slips, foreign tax credits are already calculated for you, presented in a box with its box number. All you need to do is to just put the numbers in your tax software, matching the box number, and your tax software will automatically take care of the rest.
+
+- No Tax Slips
 
 
 ### Who to Pay First
